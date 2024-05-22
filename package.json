@@ -1,5 +1,5 @@
 {
-  "name": "bulma-switch-control",
+  "name": "bulma-1-switch-control",
   "version": "2.0.0",
   "description": "Switch controls for Bulma CSS Framework",
   "homepage": "https://justboil.github.io/bulma-checkbox/",
@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justboil/bulma-switch-control.git"
+    "url": "git+https://github.com/xEsk/bulma-switch-control.git"
   },
   "dependencies": {
     "bulma": "^1.0.1"
