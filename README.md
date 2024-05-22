@@ -4,7 +4,7 @@
 
 [![Switch controls for Bulma CSS Framework](https://justboil.me/images/bulma-switch-control/repository-preview-hi-res.png?v=1.1)](https://justboil.github.io/bulma-switch-control/)
 
-**Switch controls for Bulma CSS Framework** &mdash; Pure HTML & CSS/SCSS.
+**Switch controls for Bulma 1.0 CSS Framework** &mdash; Pure HTML & CSS/SCSS.
 
 * Free under MIT License
 * Pure HTML & CSS/SCSS
@@ -33,7 +33,7 @@ Demo and usage samples available at https://justboil.github.io/bulma-switch-cont
 ### npm install
 
 ```shell script
-$ npm i bulma-switch-control --save
+$ npm i bulma-1-switch-control --save
 ``` 
 
 ### SCSS
@@ -42,7 +42,7 @@ Use with scss
 
 ```scss
 /* Bulma Switch Control */
-@import "node_modules/bulma-switch-control/bulma-switch-control";
+@import "node_modules/bulma-1-switch-control/bulma-switch-control";
 
 /* Bulma */
 @import "node_modules/bulma/bulma";
@@ -50,14 +50,14 @@ Use with scss
 
 ### ... or use as CSS
 
-You may just copy pre-compiled `main.css` or `main.min.css` file from the [repository](https://github.com/justboil/bulma-switch-control/tree/master/css) or from `node_modules/bulma-switch-control/css` folder and use it in HTML
+You may just copy pre-compiled `main.css` or `main.min.css` file from the [repository](https://github.com/xEsk/bulma-1-switch-control/tree/master/css) or from `node_modules/bulma-1-switch-control/css` folder and use it in HTML
 
 ```html
 <!-- Bulma -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
 
 <!-- Bulma Switch Control -->
-<link rel="stylesheet" href="%SOME-LOCAL-PATH%/bulma-switch-control/css/main.min.css">
+<link rel="stylesheet" href="%SOME-LOCAL-PATH%/bulma-1-switch-control/css/main.min.css">
 ```
 
 ## Usage samples
