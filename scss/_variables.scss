@@ -1,4 +1,5 @@
-@import "node_modules/bulma/sass/utilities/all";
+@import "bulma/sass/utilities/index";
+@import "bulma/sass/utilities/extends";
 
 $speed-slow: 150ms !default;
 
